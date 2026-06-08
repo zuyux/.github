@@ -1,8 +1,7 @@
-
 <div align="center">
 	<h1>zuyux</h1>
-	<p><strong>Organización Autónoma Descentralizada de Investigación y Desarrollo en TI</strong></p>
-	<p>P2P · Privacidad · Autonomía</p>
+	<p><strong>Decentralized Autonomous Organization for Research and Development in IT</strong></p>
+	<p>P2P · Privacy · Autonomy</p>
 	<br />
 	<a href="https://github.com/zuyux"><img alt="GitHub" src="https://img.shields.io/badge/github-zuyux-181717?logo=github" /></a>
 	<a href="https://x.com/zuyuxxyz"><img alt="X" src="https://img.shields.io/badge/X-@zuyuxxyz-000000?logo=x" /></a>
@@ -10,19 +9,19 @@
 
 ---
 
-## Manifiesto
+## Manifesto
 
-Nacimos como un proyecto de investigación sobre Ciudades Inteligentes en la Oficina de Tecnologías de la Información de la <a href="https://www.uni.edu.pe/" target="_blank">UNI</a> en Perú. Desde entonces, nos expandimos más allá del campus para experimentar con Bitcoin, L2s, Nostr, ZKPs y herramientas que devuelvan control y privacidad a las personas.
+We were born as a research project on Smart Cities within the Information Technology Office of the <a href="https://www.uni.edu.pe/" target="_blank">UNI</a> in Peru. Since then, we have expanded beyond the campus to experiment with Bitcoin, L2s, Nostr, ZKPs, and tools that return control and privacy to individuals.
 
-Promovemos la Investigación y Desarrollo en <strong>TI</strong> con un enfoque cypherpunk: sistemas P2P, privacidad por diseño y autonomía tecnológica. Organizamos talleres, eventos y proyectos experimentales abiertos y auditables —software mínimo, reutilizable y resistente a la censura— para ofrecer alternativas concretas frente al creciente control centralizado de los estados-nación.
+We promote Research and Development in <strong>IT</strong> through a cypherpunk lens: P2P systems, privacy by design, and technological autonomy. We organize workshops, events, and open, auditable experimental projects — minimal, reusable, and censorship-resistant software — to provide practical alternatives to the growing centralized control of nation-states and corporations.
 
 ---
 
-## ¿Quieres colaborar?
+## Want to Collaborate?
 
-Únete a nuestra comunidad y participa en el desarrollo de tecnologías abiertas, privadas y descentralizadas.
+Join our community and take part in the development of open, private, and decentralized technologies.
 
-- [GitHub](https://github.com/zuyux)
-- [X / Twitter](https://x.com/zuyuxxyz)
+* [GitHub](https://github.com/zuyux)
+* [X / Twitter](https://x.com/zuyuxxyz)
 
 ---
