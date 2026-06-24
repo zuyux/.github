@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>zuyux</h1>
-	<p><strong>Decentralized Laboratory for IT Research and Development</strong></p>
+	<p><strong>Decentralized Laboratory for IT Research & Development</strong></p>
 	<p>P2P · Privacy · Autonomy</p>
 	<br />
 	<a href="https://github.com/zuyux"><img alt="GitHub" src="https://img.shields.io/badge/github-zuyux-181717?logo=github" /></a>
