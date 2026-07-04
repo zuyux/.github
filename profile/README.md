@@ -24,4 +24,8 @@ Join our community and take part in the development of open, private, and decent
 * [GitHub](https://github.com/zuyux)
 * [X / Twitter](https://x.com/zuyuxxyz)
 
+## Donate
+
+Wanna support us? Please refer to <a href="mailto:40230@pm.me">40230@pm.me</a> for further information.
+
 ---
