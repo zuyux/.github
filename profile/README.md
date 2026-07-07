@@ -26,6 +26,8 @@ Join our community and take part in the development of open, private, and decent
 
 ## Donate
 
-Wanna support us? Please refer to <a href="mailto:40230@pm.me">40230@pm.me</a> for further information.
+Wanna support us? Please refer to <a href="mailto:40230@pm.me">40230@pm.me</a> for further inquiries or straightly send sats to this address:
 
----
+>bc1qqm3yk9v5wn55rg8wc5klcathqvurvpjtpeutjc
+
+We would be greatly grateful.
